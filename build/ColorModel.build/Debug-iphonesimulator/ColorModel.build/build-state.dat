@@ -1,0 +1,956 @@
+TColorModel
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/kv/1wy1fbyn0tqcr3t2pj7k25gw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ColorModel-Prefix-dhvycriglrnrpaaikjbmiwrhgcaj/ColorModel-Prefix.pch.pch ColorModel/ColorModel-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMAppDelegate.o /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/main.o /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMViewController.o /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMColor.o /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMColor.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMColorView.o /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMColorView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app/ColorModel normal x86_64
+cCopyStringsFile /Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app/en.lproj/InfoPlist.strings ColorModel/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/Images.xcassets
+cProcessInfoPlistFile /Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app/Info.plist /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/ColorModel-Info.plist
+cGenerateDSYMFile /Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app.dSYM /Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app/ColorModel
+cTouch /Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c000000005348AB630000000000000198
+t1397271395
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005327B3A500000000000003B4
+t1395110821
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005327B3AC000000000000019E
+t1395110828
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000005327B3AE000000000058E0E0
+t1395110830
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000005327B3AF00000000005B82F0
+t1395110831
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005348AA4B0000000000446820
+t1397271115
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c000000005327B3AF00000000003599D0
+t1395110831
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c000000005327B3AF00000000002FC3B0
+t1395110831
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000005327B3AF000000000004B000
+t1395110831
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005327B3B0000000000088D8C0
+t1395110832
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000005327B3B20000000000037680
+t1395110834
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000005327B3B2000000000048F720
+t1395110834
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c000000005327B3B2000000000013FD70
+t1395110834
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005327B3B60000000001F1DE10
+t1395110838
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c000000005327B3C800000000002BC360
+t1395110856
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c000000005327B3D00000000000002338
+t1395110864
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c000000005327B3D0000000000008D370
+t1395110864
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c000000005327B3D00000000000392E20
+t1395110864
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c0000000053A1596E00000000000141F0
+t1403083118
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c000000005327B3D00000000000014A80
+t1395110864
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c000000005327B3D00000000000033BA0
+t1395110864
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c000000005327B3D0000000000001CFB0
+t1395110864
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c000000005327B3D0000000000001B2B0
+t1395110864
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c000000005327B3D000000000000C9570
+t1395110864
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c000000005327B3D00000000000063280
+t1395110864
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c000000005327B3D00000000000008880
+t1395110864
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c000000005327B3D00000000000015080
+t1395110864
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c000000005327B3D000000000000230F0
+t1395110864
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c000000005327B3D0000000000000E380
+t1395110864
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c000000005327B3D00000000000089380
+t1395110864
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c000000005327B3D00000000000017320
+t1395110864
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c000000005327B3D00000000000039CD0
+t1395110864
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c000000005327B3D0000000000000B0B0
+t1395110864
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c000000005327B3D10000000000167E80
+t1395110865
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c000000005327B3D000000000000106A0
+t1395110864
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c000000005327B3D0000000000001CE40
+t1395110864
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c000000005327B3D000000000000740C0
+t1395110864
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c000000005327B3D0000000000006CA60
+t1395110864
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c000000005327B3D0000000000001BAD0
+t1395110864
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c000000005327B3D00000000000084A20
+t1395110864
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c000000005327B3D60000000000000ADC
+t1395110870
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c000000005348AA4B000000000000514C
+t1397271115
+s20812
+
+N/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/Base.lproj/Main.storyboard
+c0000000053BF9F8B0000000000004105
+t1405067147
+s16645
+
+N/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMAppDelegate.h
+c0000000053BEDBBB0000000000000115
+t1405017019
+s277
+
+N/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMAppDelegate.m
+c0000000053BEDBBB00000000000007D9
+t1405017019
+s2009
+
+N/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMColor.h
+c0000000053BEEC060000000000000169
+t1405021190
+s361
+
+N/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMColor.m
+c0000000053BFA52400000000000001D3
+t1405068580
+s467
+
+N/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMColorView.h
+c0000000053BFAB400000000000000135
+t1405070144
+s309
+
+N/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMColorView.m
+c0000000053BFAB4000000000000011C0
+t1405070144
+s4544
+
+N/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMViewController.h
+c0000000053BF9F8B00000000000002EC
+t1405067147
+s748
+
+N/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMViewController.m
+c0000000053BFAB3E0000000000000C55
+t1405070142
+s3157
+
+N/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/ColorModel-Info.plist
+c0000000053BEDBC3000000000000045C
+t1405017027
+s1116
+
+N/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/ColorModel-Prefix.pch
+c0000000053BEDBBB0000000000000158
+t1405017019
+s344
+
+N/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/Images.xcassets
+c0000000053BEDBBB0000000000000088
+t1405017019
+s136
+
+N/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/en.lproj/InfoPlist.strings
+c0000000053BEDBBB000000000000002D
+t1405017019
+s45
+
+N/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/main.m
+c0000000053BEDBBB0000000000000151
+t1405017019
+s337
+
+N/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/CMAppDelegate.o
+t1405024899
+s62480
+
+N/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/CMColor.o
+t1405032038
+s9420
+
+N/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/CMViewController.o
+t1405032086
+s48768
+
+N/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/ColorModel.LinkFileList
+c0000000053BEFA800000000000000230
+t1405024896
+s560
+
+N/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/main.o
+t1405024899
+s3560
+
+N/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMAppDelegate.o
+t1405038094
+s68708
+
+N/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMColor.o
+t1405068580
+s12444
+
+N/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMColorView.o
+t1405070144
+s57568
+
+N/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMViewController.o
+t1405070144
+s64408
+
+N/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/ColorModel.LinkFileList
+c0000000053BF9F8B00000000000002C7
+t1405067147
+s711
+
+N/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/main.o
+t1405038094
+s3792
+
+N/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/assetcatalog_dependencies.txt
+t1405024904
+s372
+
+N/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/assetcatalog_generated_info.plist
+t1405024904
+s525
+
+N/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app
+t1405070144
+s306
+
+N/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app.dSYM
+t1405068580
+s102
+
+N/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app/Base.lproj/Main.storyboardc
+t1405067154
+s170
+
+N/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app/ColorModel
+t1405070144
+s44044
+
+N/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app/Info.plist
+t1405024904
+s941
+
+N/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app/PkgInfo
+t1405024904
+s8
+
+N/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app/en.lproj/InfoPlist.strings
+t1405024900
+s42
+
+N/usr/lib/libSystem.B.dylib
+c0000000053A1595B000000000000E6D0
+t1403083099
+s59088
+
+N/usr/lib/system/libcache.dylib
+c0000000053A1596D0000000000012A00
+t1403083117
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000053A15949000000000002E320
+t1403083081
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c0000000053A1595A0000000000021860
+t1403083098
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000053A1596C000000000001B620
+t1403083116
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c0000000053A1596C00000000000BD920
+t1403083116
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c0000000053A1596E00000000000141F0
+t1403083118
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c0000000053A1596D000000000000A120
+t1403083117
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c0000000053A1596D000000000001D550
+t1403083117
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c0000000053A1596C0000000000014EE0
+t1403083116
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c0000000053A1596F0000000000010380
+t1403083119
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c0000000053A1596F000000000000C4C0
+t1403083119
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c0000000053A1596D00000000000357A0
+t1403083117
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000053A1596D000000000000C070
+t1403083117
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c0000000053A1595A0000000000168D00
+t1403083098
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c0000000053A1596C0000000000010630
+t1403083116
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000053A1596E000000000001DF10
+t1403083118
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c0000000053A1595B0000000000075B00
+t1403083099
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000053A1595B000000000007CD60
+t1403083099
+s511328
+
+N/usr/lib/system/libsystem_m.dylib
+c0000000053A1595B00000000000766C0
+t1403083099
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c0000000053A1596E0000000000044DC0
+t1403083118
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c0000000053A1595B0000000000021FA0
+t1403083099
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c0000000053A1596E000000000002D920
+t1403083118
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c0000000053A1596E000000000001E570
+t1403083118
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000053A15963000000000000CC70
+t1403083107
+s52336
+
+N/usr/lib/system/libsystem_stats.dylib
+c0000000053A159660000000000009A80
+t1403083110
+s39552
+
+N/usr/lib/system/libunc.dylib
+c0000000053A15966000000000000C3F0
+t1403083110
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c0000000053A1596E00000000000199F0
+t1403083118
+s104944
+
+N/var/folders/kv/1wy1fbyn0tqcr3t2pj7k25gw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ColorModel-Prefix-bczrpihtciqewlbkfmrhbtdtnuqq/ColorModel-Prefix.pch.pch
+t1405024898
+s121988
+
+N/var/folders/kv/1wy1fbyn0tqcr3t2pj7k25gw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ColorModel-Prefix-dhvycriglrnrpaaikjbmiwrhgcaj/ColorModel-Prefix.pch.pch
+t1405038094
+s122900
+
+CBuild AST from /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMAppDelegate.m
+r0
+
+CBuild AST from /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMColor.m
+r0
+
+CBuild AST from /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMColorView.m
+r0
+
+CBuild AST from /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMViewController.m
+r0
+
+CBuild AST from /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies21af93c0e26fb941^f60d94c0e26fb941^---0#1#1#--18"Check dependencies36"35E173CD-7BD0-4809-9462-4CF499516E26-
+
+CCompileAssetCatalog /Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/Images.xcassets
+s426717700.134602
+e426717704.592737
+r1
+xCompileAssetCatalog
+x/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app
+x/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app/LaunchImage-700-568h@2x.png
+o/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app/Assets.car
+o/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"CompileAssetCatalog build/Debug-iphonesimulator/ColorModel.app ColorModel/Images.xcassets89"CompileAssetCatalog build/Debug-iphonesimulator/ColorModel.app ColorModel/Images.xcassets5e832204326fb941^01be9708326fb941^-400"/* com.apple.actool.compilation-results *//Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app/LaunchImage-700-568h@2x.png/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app/Assets.car/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@79"file:///Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/Images.xcassets/0000000000000000^1146"CompileAssetCatalog build/Debug-iphonesimulator/ColorModel.app ColorModel/Images.xcassets    cd /Users/hoantran/DeveloperPego/ios/ColorModel    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/Images.xcassets36"DA2C1D4B-1E30-427F-A042-4BE9D8C2CF62-
+bFC24DA67-1E8C-40A1-99CE-073900673A39
+
+CCompileC build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/CMAppDelegate.o /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426717698.143306
+e426717699.131154
+r1
+xCompileC
+xbuild/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/CMAppDelegate.o
+x/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMAppDelegate.m
+d/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMAppDelegate.m201"CompileC build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/CMAppDelegate.o ColorModel/CMAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerebc92402326fb941^d5932103326fb941^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMAppDelegate.m0000000000000000^3710"CompileC build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/CMAppDelegate.o ColorModel/CMAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hoantran/DeveloperPego/ios/ColorModel    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hoantran/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-generated-files.hmap -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-own-target-headers.hmap -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-all-target-headers.hmap -iquote /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-project-headers.hmap -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/DerivedSources/i386 -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/DerivedSources -F/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator -include /var/folders/kv/1wy1fbyn0tqcr3t2pj7k25gw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ColorModel-Prefix-bczrpihtciqewlbkfmrhbtdtnuqq/ColorModel-Prefix.pch -MMD -MT dependencies -MF /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/CMAppDelegate.d --serialize-diagnostics /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/CMAppDelegate.dia -c /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMAppDelegate.m -o /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/CMAppDelegate.o36"734AC8CC-94AD-4713-A673-0E6296720F0F-
+bFC24DA67-1E8C-40A1-99CE-073900673A39
+
+CCompileC build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/CMColor.o /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMColor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426724838.430134
+e426724838.501351
+r1
+xCompileC
+xbuild/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/CMColor.o
+x/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMColor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMColor.m
+d/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMColor.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMColor.m189"CompileC build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/CMColor.o ColorModel/CMColor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler48336ee64d6fb941^715a80e64d6fb941^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMColor.m0000000000000000^3674"CompileC build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/CMColor.o ColorModel/CMColor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hoantran/DeveloperPego/ios/ColorModel    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hoantran/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-generated-files.hmap -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-own-target-headers.hmap -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-all-target-headers.hmap -iquote /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-project-headers.hmap -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/DerivedSources/i386 -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/DerivedSources -F/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator -include /var/folders/kv/1wy1fbyn0tqcr3t2pj7k25gw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ColorModel-Prefix-bczrpihtciqewlbkfmrhbtdtnuqq/ColorModel-Prefix.pch -MMD -MT dependencies -MF /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/CMColor.d --serialize-diagnostics /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/CMColor.dia -c /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMColor.m -o /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/CMColor.o36"22611F86-38CD-4F58-B5D5-AF63DF20F8C1-
+b842894BD-8F0C-40DE-913E-B0B627427C3C
+
+CCompileC build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/CMViewController.o /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426724886.197633
+e426724886.303652
+r1
+xCompileC
+xbuild/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/CMViewController.o
+x/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMViewController.m
+d/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMViewController.h
+d/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMColor.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMViewController.m207"CompileC build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/CMViewController.o ColorModel/CMViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb0ae32164e6fb941^2bbe4d164e6fb941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMViewController.m0000000000000000^3728"CompileC build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/CMViewController.o ColorModel/CMViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hoantran/DeveloperPego/ios/ColorModel    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hoantran/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-generated-files.hmap -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-own-target-headers.hmap -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-all-target-headers.hmap -iquote /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-project-headers.hmap -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/DerivedSources/i386 -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/DerivedSources -F/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator -include /var/folders/kv/1wy1fbyn0tqcr3t2pj7k25gw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ColorModel-Prefix-bczrpihtciqewlbkfmrhbtdtnuqq/ColorModel-Prefix.pch -MMD -MT dependencies -MF /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/CMViewController.d --serialize-diagnostics /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/CMViewController.dia -c /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMViewController.m -o /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/CMViewController.o36"60DC387F-6080-4D03-8252-19C447E78B21-
+b585CD6CA-D0C8-4ED7-B97D-F35E8F58B0BB
+
+CCompileC build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/main.o /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426717698.143552
+e426717699.130738
+r1
+xCompileC
+xbuild/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/main.o
+x/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/main.m
+d/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/main.m183"CompileC build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/main.o ColorModel/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compileraad42402326fb941^70782103326fb941^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/main.m0000000000000000^3656"CompileC build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/main.o ColorModel/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hoantran/DeveloperPego/ios/ColorModel    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hoantran/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-generated-files.hmap -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-own-target-headers.hmap -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-all-target-headers.hmap -iquote /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-project-headers.hmap -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/DerivedSources/i386 -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/DerivedSources -F/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator -include /var/folders/kv/1wy1fbyn0tqcr3t2pj7k25gw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ColorModel-Prefix-bczrpihtciqewlbkfmrhbtdtnuqq/ColorModel-Prefix.pch -MMD -MT dependencies -MF /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/main.dia -c /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/main.m -o /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/main.o36"19E72E4C-D1D0-4502-B069-3D0CAA6B58BB-
+bFC24DA67-1E8C-40A1-99CE-073900673A39
+
+CCompileC build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMAppDelegate.o /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426730894.526552
+e426730894.884627
+r1
+xCompileC
+xbuild/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMAppDelegate.o
+x/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMAppDelegate.m
+d/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMAppDelegate.m205"CompileC build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMAppDelegate.o ColorModel/CMAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerd4ef868e656fb941^1479e28e656fb941^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMAppDelegate.m0000000000000000^3724"CompileC build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMAppDelegate.o ColorModel/CMAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hoantran/DeveloperPego/ios/ColorModel    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hoantran/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-generated-files.hmap -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-own-target-headers.hmap -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-all-target-headers.hmap -iquote /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-project-headers.hmap -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/DerivedSources/x86_64 -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/DerivedSources -F/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator -include /var/folders/kv/1wy1fbyn0tqcr3t2pj7k25gw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ColorModel-Prefix-dhvycriglrnrpaaikjbmiwrhgcaj/ColorModel-Prefix.pch -MMD -MT dependencies -MF /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMAppDelegate.d --serialize-diagnostics /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMAppDelegate.dia -c /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMAppDelegate.m -o /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMAppDelegate.o36"B7403E2B-C845-4321-B99D-7C3944128561-
+b3A19F4A2-8FB0-46B2-A54A-A6D6D4A38C93
+
+CCompileC build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMColor.o /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMColor.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426761380.110198
+e426761380.236541
+r1
+xCompileC
+xbuild/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMColor.o
+x/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMColor.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMColor.m
+d/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMColor.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMColor.m193"CompileC build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMColor.o ColorModel/CMColor.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler164c1ca4dc6fb941^ce8e3ca4dc6fb941^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMColor.m0000000000000000^3688"CompileC build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMColor.o ColorModel/CMColor.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hoantran/DeveloperPego/ios/ColorModel    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hoantran/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-generated-files.hmap -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-own-target-headers.hmap -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-all-target-headers.hmap -iquote /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-project-headers.hmap -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/DerivedSources/x86_64 -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/DerivedSources -F/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator -include /var/folders/kv/1wy1fbyn0tqcr3t2pj7k25gw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ColorModel-Prefix-dhvycriglrnrpaaikjbmiwrhgcaj/ColorModel-Prefix.pch -MMD -MT dependencies -MF /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMColor.d --serialize-diagnostics /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMColor.dia -c /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMColor.m -o /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMColor.o36"3758FDDF-F187-43BB-A389-0E965245C5F2-
+b07209FE6-104F-403C-B0D0-6BB4B9759346
+
+CCompileC build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMColorView.o /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMColorView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426762944.579490
+e426762944.765884
+r1
+xCompileC
+xbuild/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMColorView.o
+x/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMColorView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMColorView.m
+d/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMColorView.h
+d/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMColor.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMColorView.m201"CompileC build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMColorView.o ColorModel/CMColorView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerff7794c0e26fb941^d315c4c0e26fb941^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMColorView.m0000000000000000^3712"CompileC build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMColorView.o ColorModel/CMColorView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hoantran/DeveloperPego/ios/ColorModel    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hoantran/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-generated-files.hmap -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-own-target-headers.hmap -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-all-target-headers.hmap -iquote /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-project-headers.hmap -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/DerivedSources/x86_64 -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/DerivedSources -F/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator -include /var/folders/kv/1wy1fbyn0tqcr3t2pj7k25gw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ColorModel-Prefix-dhvycriglrnrpaaikjbmiwrhgcaj/ColorModel-Prefix.pch -MMD -MT dependencies -MF /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMColorView.d --serialize-diagnostics /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMColorView.dia -c /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMColorView.m -o /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMColorView.o36"7F361A62-FB10-45FE-855E-C277052C2CD4-
+b18551B6B-71E7-4B63-B2F9-BEE6771ED927
+
+CCompileC build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMViewController.o /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426762944.579131
+e426762944.765837
+r1
+xCompileC
+xbuild/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMViewController.o
+x/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMViewController.m
+d/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMViewController.h
+d/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMColor.h
+d/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMColorView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMViewController.m211"CompileC build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMViewController.o ColorModel/CMViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler255894c0e26fb941^1f10c4c0e26fb941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMViewController.m0000000000000000^3742"CompileC build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMViewController.o ColorModel/CMViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hoantran/DeveloperPego/ios/ColorModel    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hoantran/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-generated-files.hmap -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-own-target-headers.hmap -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-all-target-headers.hmap -iquote /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-project-headers.hmap -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/DerivedSources/x86_64 -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/DerivedSources -F/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator -include /var/folders/kv/1wy1fbyn0tqcr3t2pj7k25gw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ColorModel-Prefix-dhvycriglrnrpaaikjbmiwrhgcaj/ColorModel-Prefix.pch -MMD -MT dependencies -MF /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMViewController.d --serialize-diagnostics /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMViewController.dia -c /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMViewController.m -o /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMViewController.o36"03DD40D2-0E0B-4F86-B6FA-8524CA7202DF-
+b18551B6B-71E7-4B63-B2F9-BEE6771ED927
+
+CCompileC build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/main.o /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426730894.526944
+e426730894.684581
+r1
+xCompileC
+xbuild/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/main.o
+x/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/main.m
+d/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/CMAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/main.m187"CompileC build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/main.o ColorModel/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler6c07878e656fb941^fa43af8e656fb941^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/main.m0000000000000000^3670"CompileC build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/main.o ColorModel/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hoantran/DeveloperPego/ios/ColorModel    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hoantran/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-generated-files.hmap -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-own-target-headers.hmap -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-all-target-headers.hmap -iquote /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-project-headers.hmap -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/DerivedSources/x86_64 -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/DerivedSources -F/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator -include /var/folders/kv/1wy1fbyn0tqcr3t2pj7k25gw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ColorModel-Prefix-dhvycriglrnrpaaikjbmiwrhgcaj/ColorModel-Prefix.pch -MMD -MT dependencies -MF /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/main.dia -c /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/main.m -o /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/main.o36"7E460321-FFA7-454D-B752-18FD5880DA3F-
+b3A19F4A2-8FB0-46B2-A54A-A6D6D4A38C93
+
+CCompileStoryboard /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/Base.lproj/Main.storyboard
+s426759948.885976
+e426759954.625284
+r1
+xCompileStoryboard
+x/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"CompileStoryboard ColorModel/Base.lproj/Main.storyboard55"CompileStoryboard ColorModel/Base.lproj/Main.storyboard65dee20cd76fb941^1f14a012d76fb941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/Base.lproj/Main.storyboard0000000000000000^857"CompileStoryboard ColorModel/Base.lproj/Main.storyboard    cd /Users/hoantran/DeveloperPego/ios/ColorModel    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app/Base.lproj/Main.storyboardc /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/Base.lproj/Main.storyboard36"DAC27BCE-39EE-43BB-A9BE-ADB078631C24-
+b23D2D9DF-9967-4D9E-A919-AB36448F5059
+
+CCopyStringsFile /Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app/en.lproj/InfoPlist.strings ColorModel/en.lproj/InfoPlist.strings
+s426717700.134082
+e426717700.219432
+r1
+xCopyStringsFile
+x/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app/en.lproj/InfoPlist.strings
+xColorModel/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy ColorModel/en.lproj/InfoPlist.strings123"CopyStringsFile build/Debug-iphonesimulator/ColorModel.app/en.lproj/InfoPlist.strings ColorModel/en.lproj/InfoPlist.strings49652204326fb941^662e3804326fb941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/en.lproj/InfoPlist.strings0000000000000000^599"CopyStringsFile build/Debug-iphonesimulator/ColorModel.app/en.lproj/InfoPlist.strings ColorModel/en.lproj/InfoPlist.strings    cd /Users/hoantran/DeveloperPego/ios/ColorModel    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app/en.lproj -- ColorModel/en.lproj/InfoPlist.strings36"AC98D666-D0EC-453D-9052-10205F772A1F-
+bFC24DA67-1E8C-40A1-99CE-073900673A39
+
+CGenerateDSYMFile /Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app.dSYM /Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app/ColorModel
+s426762944.898692
+e426762944.921711
+r1
+xGenerateDSYMFile
+x/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app.dSYM
+x/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app/ColorModel
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Generate /Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app.dSYM118"GenerateDSYMFile build/Debug-iphonesimulator/ColorModel.app.dSYM build/Debug-iphonesimulator/ColorModel.app/ColorModelef1ce6c0e26fb941^2bf6ebc0e26fb941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app.dSYM/0000000000000000^661"GenerateDSYMFile build/Debug-iphonesimulator/ColorModel.app.dSYM build/Debug-iphonesimulator/ColorModel.app/ColorModel    cd /Users/hoantran/DeveloperPego/ios/ColorModel    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app/ColorModel -o /Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app.dSYM36"2CBD77C3-2D6E-4674-8058-CF7EDAED5056-
+b18551B6B-71E7-4B63-B2F9-BEE6771ED927
+
+CLd /Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app/ColorModel normal i386
+s426724886.305330
+e426724886.339726
+r1
+xLd
+x/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app/ColorModel
+xnormal
+xi386
+d/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/ColorModel.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/CMAppDelegate.o
+d/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/main.o
+d/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/CMViewController.o
+d/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/CMColor.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Link /Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app/ColorModel68"Ld build/Debug-iphonesimulator/ColorModel.app/ColorModel normal i386473b4e164e6fb941^55f956164e6fb941^---0#0#1#--1391"Ld build/Debug-iphonesimulator/ColorModel.app/ColorModel normal i386    cd /Users/hoantran/DeveloperPego/ios/ColorModel    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator -F/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator -filelist /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/ColorModel.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/i386/ColorModel_dependency_info.dat -o /Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app/ColorModel36"8F94F45C-653A-4B92-A1F6-4309CCB3690C-
+b585CD6CA-D0C8-4ED7-B97D-F35E8F58B0BB
+
+CLd /Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app/ColorModel normal x86_64
+s426762944.767713
+e426762944.896924
+r1
+xLd
+x/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app/ColorModel
+xnormal
+xx86_64
+d/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/ColorModel.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMAppDelegate.o
+d/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/main.o
+d/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMViewController.o
+d/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMColorView.o
+d/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/CMColor.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libsystem_stats.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Link /Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app/ColorModel70"Ld build/Debug-iphonesimulator/ColorModel.app/ColorModel normal x86_647098c4c0e26fb941^dc9de5c0e26fb941^---0#0#1#--1399"Ld build/Debug-iphonesimulator/ColorModel.app/ColorModel normal x86_64    cd /Users/hoantran/DeveloperPego/ios/ColorModel    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator -F/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator -filelist /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/ColorModel.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/Objects-normal/x86_64/ColorModel_dependency_info.dat -o /Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app/ColorModel36"6E174CCA-CD3C-4E06-9A4D-8D7365285BB1-
+b18551B6B-71E7-4B63-B2F9-BEE6771ED927
+
+CProcessInfoPlistFile /Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app/Info.plist /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/ColorModel-Info.plist
+s426717704.593690
+e426717704.612222
+r1
+xProcessInfoPlistFile
+x/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app/Info.plist
+x/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/ColorModel-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Process /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/ColorModel-Info.plist107"ProcessInfoPlistFile build/Debug-iphonesimulator/ColorModel.app/Info.plist ColorModel/ColorModel-Info.plist0d189808326fb941^e4bb9c08326fb941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/ColorModel-Info.plist0000000000000000^898"ProcessInfoPlistFile build/Debug-iphonesimulator/ColorModel.app/Info.plist ColorModel/ColorModel-Info.plist    cd /Users/hoantran/DeveloperPego/ios/ColorModel    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/ColorModel-Info.plist -genpkginfo /Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/assetcatalog_generated_info.plist -o /Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app/Info.plist36"EFA40CBF-A74C-42DE-A06D-ED939FA55B65-
+bFC24DA67-1E8C-40A1-99CE-073900673A39
+
+CProcessPCH /Users/hoantran/Library/Developer/Xcode/DerivedData/ColorModel-aqkbfkcoyzeavxegnsdhqhvsuhev/Index/PrecompiledHeaders/ColorModel-Prefix-amwawkldoqqrxwbpcwyiqchnuywo_ast/ColorModel-Prefix.pch.pch ColorModel/ColorModel-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/hoantran/Library/Developer/Xcode/DerivedData/ColorModel-aqkbfkcoyzeavxegnsdhqhvsuhev/Index/PrecompiledHeaders/ColorModel-Prefix-bqplrxsfrvbksfdvqlsmhqjfoomm_ast/ColorModel-Prefix.pch.pch ColorModel/ColorModel-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/kv/1wy1fbyn0tqcr3t2pj7k25gw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ColorModel-Prefix-bczrpihtciqewlbkfmrhbtdtnuqq/ColorModel-Prefix.pch.pch ColorModel/ColorModel-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426717696.595318
+e426717698.142354
+r1
+xProcessPCH
+x/var/folders/kv/1wy1fbyn0tqcr3t2pj7k25gw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ColorModel-Prefix-bczrpihtciqewlbkfmrhbtdtnuqq/ColorModel-Prefix.pch.pch
+xColorModel/ColorModel-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/ColorModel-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile ColorModel/ColorModel-Prefix.pch302"ProcessPCH /var/folders/kv/1wy1fbyn0tqcr3t2pj7k25gw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ColorModel-Prefix-bczrpihtciqewlbkfmrhbtdtnuqq/ColorModel-Prefix.pch.pch ColorModel/ColorModel-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler31b29800326fb941^cd732402326fb941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/ColorModel-Prefix.pch0000000000000000^3768"ProcessPCH /var/folders/kv/1wy1fbyn0tqcr3t2pj7k25gw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ColorModel-Prefix-bczrpihtciqewlbkfmrhbtdtnuqq/ColorModel-Prefix.pch.pch ColorModel/ColorModel-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hoantran/DeveloperPego/ios/ColorModel    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hoantran/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-generated-files.hmap -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-own-target-headers.hmap -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-all-target-headers.hmap -iquote /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-project-headers.hmap -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/DerivedSources/i386 -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/DerivedSources -F/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/kv/1wy1fbyn0tqcr3t2pj7k25gw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ColorModel-Prefix-bczrpihtciqewlbkfmrhbtdtnuqq/ColorModel-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/kv/1wy1fbyn0tqcr3t2pj7k25gw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ColorModel-Prefix-bczrpihtciqewlbkfmrhbtdtnuqq/ColorModel-Prefix.pch.d -c /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/ColorModel-Prefix.pch -o /var/folders/kv/1wy1fbyn0tqcr3t2pj7k25gw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ColorModel-Prefix-bczrpihtciqewlbkfmrhbtdtnuqq/ColorModel-Prefix.pch.pch36"CB6792B3-3732-42A7-AAB3-4D0B6220A32A-
+bFC24DA67-1E8C-40A1-99CE-073900673A39
+
+CProcessPCH /var/folders/kv/1wy1fbyn0tqcr3t2pj7k25gw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ColorModel-Prefix-dhvycriglrnrpaaikjbmiwrhgcaj/ColorModel-Prefix.pch.pch ColorModel/ColorModel-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426730893.751063
+e426730894.525582
+r1
+xProcessPCH
+x/var/folders/kv/1wy1fbyn0tqcr3t2pj7k25gw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ColorModel-Prefix-dhvycriglrnrpaaikjbmiwrhgcaj/ColorModel-Prefix.pch.pch
+xColorModel/ColorModel-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/ColorModel-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile ColorModel/ColorModel-Prefix.pch304"ProcessPCH /var/folders/kv/1wy1fbyn0tqcr3t2pj7k25gw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ColorModel-Prefix-dhvycriglrnrpaaikjbmiwrhgcaj/ColorModel-Prefix.pch.pch ColorModel/ColorModel-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerfb74c08d656fb941^0490868e656fb941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/ColorModel-Prefix.pch0000000000000000^3774"ProcessPCH /var/folders/kv/1wy1fbyn0tqcr3t2pj7k25gw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ColorModel-Prefix-dhvycriglrnrpaaikjbmiwrhgcaj/ColorModel-Prefix.pch.pch ColorModel/ColorModel-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hoantran/DeveloperPego/ios/ColorModel    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/hoantran/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-generated-files.hmap -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-own-target-headers.hmap -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-all-target-headers.hmap -iquote /Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/ColorModel-project-headers.hmap -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/DerivedSources/x86_64 -I/Users/hoantran/DeveloperPego/ios/ColorModel/build/ColorModel.build/Debug-iphonesimulator/ColorModel.build/DerivedSources -F/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/kv/1wy1fbyn0tqcr3t2pj7k25gw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ColorModel-Prefix-dhvycriglrnrpaaikjbmiwrhgcaj/ColorModel-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/kv/1wy1fbyn0tqcr3t2pj7k25gw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ColorModel-Prefix-dhvycriglrnrpaaikjbmiwrhgcaj/ColorModel-Prefix.pch.d -c /Users/hoantran/DeveloperPego/ios/ColorModel/ColorModel/ColorModel-Prefix.pch -o /var/folders/kv/1wy1fbyn0tqcr3t2pj7k25gw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/ColorModel-Prefix-dhvycriglrnrpaaikjbmiwrhgcaj/ColorModel-Prefix.pch.pch36"0278A255-CA62-487B-89E1-E6CA13071C0F-
+b3A19F4A2-8FB0-46B2-A54A-A6D6D4A38C93
+
+CTouch /Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app
+s426759954.670597
+e426759954.696658
+r1
+xTouch
+x/Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Touch /Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app48"Touch build/Debug-iphonesimulator/ColorModel.app34baab12d76fb941^145ab212d76fb941^---0#0#1#--406"Touch build/Debug-iphonesimulator/ColorModel.app    cd /Users/hoantran/DeveloperPego/ios/ColorModel    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/hoantran/DeveloperPego/ios/ColorModel/build/Debug-iphonesimulator/ColorModel.app36"F4A7978D-4B01-4330-965E-64464488F523-
+b23D2D9DF-9967-4D9E-A919-AB36448F5059
+
